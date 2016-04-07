@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "underscore": "~1.4.4",
-    "harmony-reflect": "~1.1.1"
+    "harmony-reflect": "~1.4.5"
   },
   "scripts": {
     "test": "./build.sh && mocha --harmony -t 3000 -R spec test/ && mocha -t 3000 -R spec test/",
